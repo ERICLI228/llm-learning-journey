@@ -19,6 +19,10 @@
 - ✅ 任务：已添加 6 个阶段 1 任务
 - 🔗 数据库链接：https://www.notion.so/32d07a3de3c3815597a9d238f7aacc51
 
+### NotebookLM
+- ✅ 知识库：🚀 大模型转型计划
+- 🔗 Notebook URL: https://notebooklm.google.com/notebook/5f112fd1-195b-45e6-8eee-a870b7f7fd49
+
 ### 模型测试
 - ✅ Gemini 2.5 Pro: 正常 (~13 秒)
 - ✅ Qwen 3.5 Plus: 正常 (~7 秒)
@@ -101,21 +105,16 @@ llm-transformation/
 
 ---
 
-## ⏳ 剩余手动任务（可选）
+## ✅ 所有配置已完成！
 
-### NotebookLM 知识库创建（5 分钟）
+### NotebookLM 知识库
+- ✅ 已创建：`🚀 大模型转型计划`
+- 🔗 Notebook URL: https://notebooklm.google.com/notebook/5f112fd1-195b-45e6-8eee-a870b7f7fd49
 
-由于 NotebookLM 没有公开 API，需要你手动创建：
-
-1. 访问 https://notebooklm.google.com/
-2. 点击 **"New Notebook"**
-3. 命名：`🚀 大模型转型计划 (2026.03-2026.06)`
-4. 上传资料：
-   - Transformer 架构图解 PDF
-   - Attention Is All You Need 论文
-5. 告诉我 Notebook URL，我会更新配置
-
-**注意**: 如果 NotebookLM 在你所在地区不可用，可以用 Notion 代替知识管理。
+**下一步**: 上传学习资料
+- [ ] Transformer 架构图解 PDF
+- [ ] Attention Is All You Need 论文
+- [ ] 课程笔记和文档
 
 ---
 
@@ -143,19 +142,17 @@ llm-transformation/
 ## 📈 整体进度
 
 ```
-总体进度：95% 完成
+总体进度：100% 完成！🎉
 
 ✅ 已完成:
 ├── GitHub 仓库配置 (100%)
-├── Notion 数据库 (100%) ✅ 刚刚完成！
+├── Notion 数据库 (100%)
+├── NotebookLM 知识库 (100%)
 ├── 配置文件创建 (100%)
 ├── 模型测试 (100%)
 ├── 定时提醒 (100%)
 ├── Git 推送 (100%)
 └── 学习日志 (100%)
-
-⏳ 待完成:
-└── NotebookLM 知识库 (0%) - 可选，可用 Notion 代替
 ```
 
 ---
@@ -166,6 +163,7 @@ llm-transformation/
 |------|------|
 | GitHub 仓库 | https://github.com/ERICLI228/llm-learning-journey |
 | Notion 数据库 | https://www.notion.so/32d07a3de3c3815597a9d238f7aacc51 |
+| NotebookLM 知识库 | https://notebooklm.google.com/notebook/5f112fd1-195b-45e6-8eee-a870b7f7fd49 |
 | 快速启动指南 | `START-HERE.md` |
 | 第 1 周计划 | `week-01-plan.md` |
 | 完整 WBS | `WBS-MASTER.md` |
